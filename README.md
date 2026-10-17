@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @kantusgaming
+- 👋 Hi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning dsa 
-- 💞️ I’m looking to collaborate on samsung
 - 📫 How to reach me @sk7066954@gmail.com
-- 😄 Pronouns: ...
 - ⚡ intreast: boxing , mma
 
 <!---
